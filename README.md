@@ -10,4 +10,4 @@
 
 # Automation output video
 
-YouTube:
+YouTube: https://youtu.be/ftKDbIrsNQw
